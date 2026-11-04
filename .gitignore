@@ -28,3 +28,6 @@ Thumbs.db
 *.swo
 .idea/
 .vscode/
+
+data/
+data_raw/
